@@ -3,13 +3,9 @@
     margin: 0px;
 }
 
-body {
-    background-color: #4b4b4b;
-}
+body {background-color: #4b4b4b}
 
-#campo {
-    text-align: right;
-}
+#campo {text-align: right}
 
 .base {
     margin-top: 10px;
