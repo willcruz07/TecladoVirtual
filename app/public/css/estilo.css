@@ -5,8 +5,6 @@
 
 body {background-color: #4b4b4b}
 
-#campo {text-align: right}
-
 .base {
     margin-top: 10px;
     padding: 10px;
@@ -41,7 +39,12 @@ body {background-color: #4b4b4b}
     .botao {height: 115px}    
 }
 
-.texto {height: 50px}
+.texto {    
+    height: 50px;    
+    font-size: 45px;           
+    font-weight: bold;
+    text-align: center;    
+}
 
 .logoAlterdata img {
     margin-top: 10px;
